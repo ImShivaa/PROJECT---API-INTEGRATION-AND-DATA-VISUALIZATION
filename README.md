@@ -2,7 +2,7 @@
 
 COMPANY - CODTECH IT SOLUTIONS
 
-NAME - SIVASANKAR. M
+NAME -  M. SIVASANKAR
 
 INTERN ID - CT6WTFXA
 
@@ -12,11 +12,13 @@ DURATION - 6 WEEKS
 
 MENTOR - NEELA SANTHOSH
 
-# Project Description
+# FOR ALL THE FOUR PROJECTS I MADE CODE BEGIN WITH USER NAME , THE WELCOME MESSAGE & THANK YOU NOTE, SO IT WILL GIVE YOU SOME POSITIVE FEEL
+
+# DESCRIPTION 
 
 This project focuses on fetching real-time weather data from OpenWeatherMap API and visualizing the temperature trends using Python. It retrieves data for a given city, extracts the temperature values for different timestamps, and then plots a graph using Matplotlib and Seaborn.
 
-# Important Features & Concepts Used
+# FEATURES & CONCEPTS USED
 
 API Integration - Fetching real-time data from OpenWeatherMap API using the requests library.
 
@@ -28,7 +30,7 @@ User Interaction - Taking user input for a personalized experience.
 
 Exception Handling - Ensuring smooth API response handling.
 
-# Libraries Used & Their Purpose
+# LIBRARIES USED & PURPOSES 
 
 requests: Used to send HTTP requests and fetch data from OpenWeatherMap API.
 
